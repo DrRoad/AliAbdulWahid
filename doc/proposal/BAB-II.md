@@ -29,7 +29,7 @@ Menurut  Burange & Misalkar [2] “Internet of Things (IOT) adalah struktur di m
 <br>
 <strong>2.3 Arduino Uno</strong>
 <p align="center">
-    <img src="../../img/proposal/arduinomega.jpg" width="200" height="200">
+    <img src="../../img/proposal/arduinomega.jpg" width="400" height="200">
     <br>
     Gambar 2.1 Arduino Mega 2560
 </p>
@@ -53,5 +53,16 @@ ESP8266 adalah sebuah modul WiFi yang akhir-akhir ini semakin digemari para har
     <br>
     Gambar 2.3 Sensor Ultrasonic
 </p>
-<p align="justify">Sensor ultrasonik merupakan sensor yang bekerja dengan cara memancarkan suatu gelombang dan kemudian menghitung waktu pantulan gelombang tersebut. Kelebihan sensor ini ialah hanya membutuhkan 1 sinyal (SIG), selain jalur 5V dan ground. Sensor ultrasonik mendeteksi jarak obyek dengan cara memancarkan gelombang ultrasonik (40 KHz) kemudian mendeteksi pantulannya. Sensor PING memancarkan gelombang ultrasonik sesuai dengan kontrol dari mikrokontroler pengendali [6]
+<p align="justify">
+Sensor ultrasonik merupakan sensor yang bekerja dengan cara memancarkan suatu gelombang dan kemudian menghitung waktu pantulan gelombang tersebut. Kelebihan sensor ini ialah hanya membutuhkan 1 sinyal (SIG), selain jalur 5V dan ground. Sensor ultrasonik mendeteksi jarak obyek dengan cara memancarkan gelombang ultrasonik (40 KHz) kemudian mendeteksi pantulannya. Sensor PING memancarkan gelombang ultrasonik sesuai dengan kontrol dari mikrokontroler pengendali [6]
+</p>
+<br>
+<strong>2.6 Bread Board</strong>
+<p align="center">
+    <img src="../../img/proposal/breadboard.jpg" width="200" height="200">
+    <br>
+    Gambar 2.4 Bread Board
+</p>
+<p align="justify">
+Breadboard adalah papan yang digunakan untuk menempatkan dan menyusun piranti / komponen-komponen elektronika menjadi rangkaian elektronika tanpa penyolderan. Hubungan antar piranti/komponen yang satu dengan piranti/komponen elektronika yang lain pada breadboard dilakukan melalui kawat/kabel [7].
 </p>
