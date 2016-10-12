@@ -86,3 +86,144 @@ LCD (Liquid Crystal Display) adalah suatu jenis media tampilan yang menggunakan
 <p align="justify">
 Motor servo adalah jenis motor yang memiliki 3 kabel. Masing-masing digunakan sebagai catu daya, ground, dan control. Kabel control digunakan untuk menentukan motor untuk memutar rotor ke arah posisi tertentu. Biasanya rotor hanya berputar hingga 200 derajat. Namun ada pula yang mampu berputar sebesar 360 derajat [9].
 </p>
+<br>
+<strong>2.9 Sensor Proximity Autonics Kapasitif CR30-15DN</strong>
+<p align="center">
+    <img src="../../img/proposal/proximity.jpg" width="200" height="200">
+    <br>
+    Gambar 2.7 Sensor Proximity Autonics Kapasitif CR30-15DN
+</p>
+<p align="justify">
+Sensor Proximity Autonics Kapasitif CR30-15DN adalah sensor untuk mendeteksi sampah organik  yang memiliki 3 kabel. Masing-masing digunakan sebagai catu daya, ground, dan control. Kabel control digunakan untuk menentukan voltase on atau off dari sensor tersebut.
+</p>
+<table>
+    <tr>
+        <td colspan="2"><strong>Proximity Sensor</strong></td>
+    </tr>
+    <tr>
+        <td>Type</td>
+        <td>Electric capacitive (CR Series)</td>        
+    </tr>
+       <tr>
+        <td>Sensing Distance</td>
+        <td>15 mm</td>        
+    </tr>
+    <tr>
+        <td>Header demension / square</td>
+        <td>30 mm</td>        
+    </tr>
+    <tr>
+        <td>Shield</td>
+        <td>Non Shield</td>        
+    </tr>
+    <tr>
+        <td>Voltage</td>
+        <td>12 - 24 VDC</td>        
+    </tr>
+    <tr>
+        <td>Wire Type</td>
+        <td>DC 3-wire</td>        
+    </tr>
+    <tr>
+        <td>Output Type</td>
+        <td>NPN</td>        
+    </tr>
+    <tr>
+        <td>Frequency</td>
+        <td>50 Hz</td>        
+    </tr>
+    <tr>
+        <td>Housing Size</td>
+        <td>30  71 mm</td>        
+    </tr>
+</table>
+<br>
+<span align="center">Tabel 2.1 Sensor Proximity Autonics Kapasitif CR30-15DN</span>
+<br>
+<strong>2.10 Node.js</strong>
+<p align="center">
+    <img src="../../img/proposal/nodejs.png" width="300" height="200">
+    <br>
+    Gambar 2.8 Node JS
+</p>
+<p align="justify">
+Node.js adalah sebuah perangkat lunak yang didisain untuk mengembangkan aplikasi berbasis WEB. Node.js dieksekusi sebagai aplikasi server. Platform ini menggunakan bahasa pemrograman javascript dan menggunakan teknik <i>non-bloking</i> untuk mempercepat proses. Teknik <i>non-bloking</i> adalah sebuah metode penyelesaian sebuah fungsi [10].
+</p>
+<br>
+<strong>2.11 Express</strong>
+<p align="center">
+    <img src="../../img/proposal/express.png" width="400" height="200">
+    <br>
+    Gambar 2.9 Express
+</p>
+<p align="justify">
+Express adalah web kerangka aplikasi minimal dan fleksibel Node.js yang menyediakan seperangkat kuat fitur untuk mengembangkan web dan aplikasi mobile. Ini memfasilitasi perkembangan pesat dari aplikasi Web berbasis Node [11].
+</p>
+<br>
+<strong>2.12 AngularJS</strong>
+<p align="center">
+    <img src="../../img/proposal/angularjs.png" width="400" height="200">
+    <br>
+    Gambar 2.10 Angular JS
+</p>
+<p align="justify">
+AngularJS merupakan sebuah javascript framework buatan tim Google yang mengusung pola MV*. Kepopuleran dan kehandalannya sudah tidak diragukan lagi terbukti dengan banyaknya tutorial di internet yang membahasanya dan juga bermunculan situs-situs khusus tentang framework ini [12]
+</p>
+<br>
+<strong>2.13 MongoDB</strong>
+<p align="center">
+    <img src="../../img/proposal/mongodb.png" width="300" height="200">
+    <br>
+    Gambar 2.11 MongoDB
+</p>
+<p align="justify">
+MongoDB adalah salah satu produk database noSQL Open source yang menggunakan struktur data JSON untuk menyimpan datanya. MongoDB adalah salah satu database noSQL yang paling populer di internet. MongoDB sering dipakai untuk aplikasi berbasis Cloud, Grid Computing, atau Big Data.[13]
+</p>
+<br>
+<strong>2.14 Socket.IO</strong>
+<p align="center">
+    <img src="../../img/proposal/mongodb.png" width="300" height="200">
+    <br>
+    Gambar 2.12 Socket.IO
+</p>
+<p align="justify">
+Socket.IO memungkinkan real-time dua arah komunikasi berbasis event. Socket.IO bekerja pada setiap platform browser atau perangkat, fokus sama pada kehandalan dan kecepatan [14].
+</p>
+<br>
+<strong>2.15 Ionic</strong>
+<p align="center">
+    <img src="../../img/proposal/ionic.png" width="400" height="200">
+    <br>
+    Gambar 2.13 Ionic
+</p>
+<p align="justify">
+Ionic adalah sebuah framewok aplikasi mobile berbasis HTML5 yang dapat digunakan untuk mengembangkan apikasi mobile dengan teknologi web seperti HTML, CSS, dan Javascript. Dengan menggunakan Ionic, para developer web bisa membuat aplikasi lintas platform seperti untuk Android dan iOS [15].
+</p>
+<br>
+<strong>2.16 Pengertian Unified Modeling Language (UML)</strong>
+<p align="justify">
+1. Definisi Unified Modeling Language (UML)
+sebuah "bahasa" yg telah menjadi standar dalam industri untuk visualisasi, merancang dan mendokumentasikan sistem piranti lunak. UML menawarkan sebuah standar untuk merancang model sebuah sistem. [10]
+<br>
+2. Diagram dalam Unified Modeling Language (UML), yaitu :
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Use Case Diagram 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diagram ini memperihatkan himpunan use case dan aktor-aktor (suatu jenis khusus dari kelas). Diagram ini terutama sangat penting untuk mengorganisasi dan memodelkan perilaku dari suatu sistem yang dibutuhkan serta diharapkan pengguna.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Class Diagram 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diagram ini memperlihatkan himpunan kelas-kelas, antarmuka-antarmuka, kolaborasi-kolaborasi dan relasi-relasi antar objek. 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Sequence Diagram 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diagram ini memperlihatkan interaksi yang menekankan pada pengiriman pesan (message) dalam suatu waktu tertentu. 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. State Chart Diagram 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diagram ini memperlihatkan state-state pada sistem, memuat state, transisi, event, dan aktifitas. Diagram ini terutama penting untuk memperlihatkan sifat dinamis dari antarmuka, kelas, kolaborasi dan terutama penting pada pemodelan sistem-sistem yang reaktif. 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Activity Diagram
+<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diagram ini memperlihatkan aliaran dari suatu aktifitas ke aktifitas lainnya dalam suatu sistem. Diagram ini terutama penting dalam pemodelan fungsi-fungsi dalam suatu sistem dan memberi tekanan pada aliran kendali antar objek.
+</p>
