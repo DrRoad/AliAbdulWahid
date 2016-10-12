@@ -29,9 +29,18 @@ Menurut  Burange & Misalkar [2] “Internet of Things (IOT) adalah struktur di m
 <br>
 <strong>2.3 Arduino Uno</strong>
 <p align="center">
-  <img src="./img/proposal/arduinomega.png">
-  Gambar 2.1 Arduino Mega 2560
+    <img src="../../img/proposal/arduinomega.jpg">
+    Gambar 2.1 Arduino Mega 2560
 </p>
 <p align="justify">
 Arduino adalah nama keluarga papan mikrokontroller yang awalnya dibuat oleh perusahaan Smart Projects. Salah satu tokoh penciptanya adalah Massimo Banzi. Papan ini merupakan perangkat keras yang bersifat open source sehingga boleh dibuat oleh siapa saja. Arduino Uno adalah papan berukuran sebesar kartu kredit. Walaupun berukuran kecil, papan tersebut mengandung mikrokontroler dan sejumlah input/output (I/O) yang memudahkan pemakai untuk menciptakan berbagai proyek elektronika yang dikhususkan untuk menangani tujuan tertentu. Arduino Uno dilengkapi dengan static <i>random-access memory</i> (SRAM) berukuran 2kb untuk memegang data, flash memory berukuran 32kb, dan erasable programmable <i>read-only memory</i> (EEPROM). SRAM digunakan untuk menampung data atau hasil pemrosesan data selama arduino selama arduino menerima pasokan catu daya. Flash Memory untuk menaruh program yang dibuat. EEPROM digunakan untuk menaruh program bawaan dari Arduino Uno dan sebagian lagi dapat dimanfaatkan untuk menaruh data program yang dibuat oleh kita secara permanen [4].
+</p>
+<br>
+<strong>2.4 ESP8266</strong>
+<p align="center">
+    <img src="../../img/proposal/esp8266.jpg">
+    Gambar 2.2 ESP8266
+</p>
+<p align="justify">
+ESP8266 adalah sebuah modul WiFi yang akhir-akhir ini semakin digemari para hardware developer. Selain karena harganya yang sangat terjangkau, modul WiFi serbaguna ini sudah bersifat SOC <i>(System on Chip)</i>, sehingga kita bisa melakukan programming langsung ke ESP8266 tanpa memerlukan mikrokontroller tambahan.[5]
 </p>
