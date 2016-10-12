@@ -44,7 +44,7 @@ Arduino adalah nama keluarga papan mikrokontroller yang awalnya dibuat oleh peru
     Gambar 2.2 ESP8266
 </p>
 <p align="justify">
-ESP8266 adalah sebuah modul WiFi yang akhir-akhir ini semakin digemari para hardware developer. Selain karena harganya yang sangat terjangkau, modul WiFi serbaguna ini sudah bersifat SOC <i>(System on Chip)</i>, sehingga kita bisa melakukan programming langsung ke ESP8266 tanpa memerlukan mikrokontroller tambahan.[5]
+ESP8266 adalah sebuah modul WiFi yang akhir-akhir ini semakin digemari para hardware developer. Selain karena harganya yang sangat terjangkau, modul WiFi serbaguna ini sudah bersifat SOC <i>(System on Chip)</i>, sehingga kita bisa melakukan programming langsung ke ESP8266 tanpa memerlukan mikrokontroller tambahan [5].
 </p>
 <br>
 <strong>2.5 Sensor Ultasonik</strong>
@@ -54,15 +54,35 @@ ESP8266 adalah sebuah modul WiFi yang akhir-akhir ini semakin digemari para har
     Gambar 2.3 Sensor Ultrasonic
 </p>
 <p align="justify">
-Sensor ultrasonik merupakan sensor yang bekerja dengan cara memancarkan suatu gelombang dan kemudian menghitung waktu pantulan gelombang tersebut. Kelebihan sensor ini ialah hanya membutuhkan 1 sinyal (SIG), selain jalur 5V dan ground. Sensor ultrasonik mendeteksi jarak obyek dengan cara memancarkan gelombang ultrasonik (40 KHz) kemudian mendeteksi pantulannya. Sensor PING memancarkan gelombang ultrasonik sesuai dengan kontrol dari mikrokontroler pengendali [6]
+Sensor ultrasonik merupakan sensor yang bekerja dengan cara memancarkan suatu gelombang dan kemudian menghitung waktu pantulan gelombang tersebut. Kelebihan sensor ini ialah hanya membutuhkan 1 sinyal (SIG), selain jalur 5V dan ground. Sensor ultrasonik mendeteksi jarak obyek dengan cara memancarkan gelombang ultrasonik (40 KHz) kemudian mendeteksi pantulannya. Sensor PING memancarkan gelombang ultrasonik sesuai dengan kontrol dari mikrokontroler pengendali [6].
 </p>
 <br>
 <strong>2.6 Bread Board</strong>
 <p align="center">
-    <img src="../../img/proposal/breadboard.jpg" width="200" height="200">
+    <img src="../../img/proposal/breadboard.jpg" width="300" height="230">
     <br>
     Gambar 2.4 Bread Board
 </p>
 <p align="justify">
 Breadboard adalah papan yang digunakan untuk menempatkan dan menyusun piranti / komponen-komponen elektronika menjadi rangkaian elektronika tanpa penyolderan. Hubungan antar piranti/komponen yang satu dengan piranti/komponen elektronika yang lain pada breadboard dilakukan melalui kawat/kabel [7].
+</p>
+<br>
+<strong>2.7 Liquid Crystal Display</strong>
+<p align="center">
+    <img src="../../img/proposal/lcd.jpg" width="200" height="200">
+    <br>
+    Gambar 2.5 Liquid Crystal Display
+</p>
+<p align="justify">
+LCD (Liquid Crystal Display) adalah suatu jenis media tampilan yang menggunakan kristal cair sebagai penampil utama. LCD sudah digunakan di berbagai bidang, misalnya dalam alat-alat elektronik, seperti televisi, kalkulator ataupun layar komputer [8].
+</p>
+<br>
+<strong>2.8 Motor Servo</strong>
+<p align="center">
+    <img src="../../img/proposal/servo.jpg" width="200" height="200">
+    <br>
+    Gambar 2.6 Motor Servo
+</p>
+<p align="justify">
+Motor servo adalah jenis motor yang memiliki 3 kabel. Masing-masing digunakan sebagai catu daya, ground, dan control. Kabel control digunakan untuk menentukan motor untuk memutar rotor ke arah posisi tertentu. Biasanya rotor hanya berputar hingga 200 derajat. Namun ada pula yang mampu berputar sebesar 360 derajat [9].
 </p>
