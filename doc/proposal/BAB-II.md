@@ -69,7 +69,7 @@ Breadboard adalah papan yang digunakan untuk menempatkan dan menyusun piranti / 
 <br>
 <strong>2.7 Liquid Crystal Display</strong>
 <p align="center">
-    <img src="../../img/proposal/lcd.jpg" width="200" height="200">
+    <img src="../../img/proposal/lcd.jpg" width="350" height="200">
     <br>
     Gambar 2.5 Liquid Crystal Display
 </p>
@@ -96,7 +96,7 @@ Motor servo adalah jenis motor yang memiliki 3 kabel. Masing-masing digunakan se
 <p align="justify">
 Sensor Proximity Autonics Kapasitif CR30-15DN adalah sensor untuk mendeteksi sampah organik  yang memiliki 3 kabel. Masing-masing digunakan sebagai catu daya, ground, dan control. Kabel control digunakan untuk menentukan voltase on atau off dari sensor tersebut.
 </p>
-<table>
+<table width="100%">
     <tr>
         <td colspan="2"><strong>Proximity Sensor</strong></td>
     </tr>
@@ -137,12 +137,11 @@ Sensor Proximity Autonics Kapasitif CR30-15DN adalah sensor untuk mendeteksi sam
         <td>30  71 mm</td>        
     </tr>
 </table>
-<br>
-<span align="center">Tabel 2.1 Sensor Proximity Autonics Kapasitif CR30-15DN</span>
+<p align="center">Tabel 2.1 Sensor Proximity Autonics Kapasitif CR30-15DN</p>
 <br>
 <strong>2.10 Node.js</strong>
 <p align="center">
-    <img src="../../img/proposal/nodejs.png" width="300" height="200">
+    <img src="../../img/proposal/nodejs.png" width="300" height="150">
     <br>
     Gambar 2.8 Node JS
 </p>
@@ -152,7 +151,7 @@ Node.js adalah sebuah perangkat lunak yang didisain untuk mengembangkan aplikas
 <br>
 <strong>2.11 Express</strong>
 <p align="center">
-    <img src="../../img/proposal/express.png" width="400" height="200">
+    <img src="../../img/proposal/express.png" width="300" height="150">
     <br>
     Gambar 2.9 Express
 </p>
@@ -162,7 +161,7 @@ Express adalah web kerangka aplikasi minimal dan fleksibel Node.js yang menyedia
 <br>
 <strong>2.12 AngularJS</strong>
 <p align="center">
-    <img src="../../img/proposal/angularjs.png" width="400" height="200">
+    <img src="../../img/proposal/angularjs.png" width="400" height="150">
     <br>
     Gambar 2.10 Angular JS
 </p>
@@ -182,7 +181,7 @@ MongoDB adalah salah satu produk database noSQL Open source yang menggunakan str
 <br>
 <strong>2.14 Socket.IO</strong>
 <p align="center">
-    <img src="../../img/proposal/mongodb.png" width="300" height="200">
+    <img src="../../img/proposal/socket.io.png" width="300" height="200">
     <br>
     Gambar 2.12 Socket.IO
 </p>
@@ -192,7 +191,7 @@ Socket.IO memungkinkan real-time dua arah komunikasi berbasis event. Socket.IO b
 <br>
 <strong>2.15 Ionic</strong>
 <p align="center">
-    <img src="../../img/proposal/ionic.png" width="400" height="200">
+    <img src="../../img/proposal/ionic.png" width="300" height="150">
     <br>
     Gambar 2.13 Ionic
 </p>
