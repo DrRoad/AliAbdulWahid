@@ -29,7 +29,8 @@ Menurut  Burange & Misalkar [2] “Internet of Things (IOT) adalah struktur di m
 <br>
 <strong>2.3 Arduino Uno</strong>
 <p align="center">
-    <img src="../../img/proposal/arduinomega.jpg">
+    <img src="../../img/proposal/arduinomega.jpg" width="200" height="200">
+    <br>
     Gambar 2.1 Arduino Mega 2560
 </p>
 <p align="justify">
@@ -38,9 +39,19 @@ Arduino adalah nama keluarga papan mikrokontroller yang awalnya dibuat oleh peru
 <br>
 <strong>2.4 ESP8266</strong>
 <p align="center">
-    <img src="../../img/proposal/esp8266.jpg">
+    <img src="../../img/proposal/esp8266.jpg" width="200" height="200">
+    <br>
     Gambar 2.2 ESP8266
 </p>
 <p align="justify">
 ESP8266 adalah sebuah modul WiFi yang akhir-akhir ini semakin digemari para hardware developer. Selain karena harganya yang sangat terjangkau, modul WiFi serbaguna ini sudah bersifat SOC <i>(System on Chip)</i>, sehingga kita bisa melakukan programming langsung ke ESP8266 tanpa memerlukan mikrokontroller tambahan.[5]
+</p>
+<br>
+<strong>2.5 Sensor Ultasonik</strong>
+<p align="center">
+    <img src="../../img/proposal/ultrasonics.jpg" width="200" height="200">
+    <br>
+    Gambar 2.3 Sensor Ultrasonic
+</p>
+<p align="justify">Sensor ultrasonik merupakan sensor yang bekerja dengan cara memancarkan suatu gelombang dan kemudian menghitung waktu pantulan gelombang tersebut. Kelebihan sensor ini ialah hanya membutuhkan 1 sinyal (SIG), selain jalur 5V dan ground. Sensor ultrasonik mendeteksi jarak obyek dengan cara memancarkan gelombang ultrasonik (40 KHz) kemudian mendeteksi pantulannya. Sensor PING memancarkan gelombang ultrasonik sesuai dengan kontrol dari mikrokontroler pengendali [6]
 </p>
