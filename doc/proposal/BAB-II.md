@@ -20,7 +20,8 @@ Menurut[1] Undang-Undang Repuplik Indinesia Nomor 18 Tahun 2008 Tentang Pengelol
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. sampah yang secara teknologi belum dapat diolah; dan/atau 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. sampah yang timbul secara tidak periodik.
-<br>
+</p>
 <strong>2.2 Definisi IoT ( Internet of Things )</strong>
-Menurut  Burange & Misalkar [2] “Internet of Things (IOT) adalah struktur di mana objek, orang disediakan dengan identitas eksklusif dan kemampuan untuk pindah data melalui jaringan tanpa memerlukan dua arah antara manusia ke manusia yaitu sumber ke tujuan atau interaksi manusia ke computer”. Menurut Keoh, Kumar, & Tschofenig [3] “Internet of Things merupakan perkembangan keilmuan yang sangat 
+<p align="justify">
+Menurut  Burange & Misalkar [2] “Internet of Things (IOT) adalah struktur di mana objek, orang disediakan dengan identitas eksklusif dan kemampuan untuk pindah data melalui jaringan tanpa memerlukan dua arah antara manusia ke manusia yaitu sumber ke tujuan atau interaksi manusia ke computer”. Menurut Keoh, Kumar, & Tschofenig [3] “Internet of Things merupakan perkembangan keilmuan yang sangat menjanjikan untuk mengoptimalkan kehidupan berdasarkan sensor cerdas dan peralatan pintar yang bekerjasama melalui jaringan internet”.
 </p>
