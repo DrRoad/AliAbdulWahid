@@ -1,4 +1,4 @@
-# SIGAMAci V2.0 (Smarttong Integrated Garbage Management System For Smart City)
+# PENGEMBANGAN SIGAMACI (SMARTTONG INTEGRATED GARBAGE MANAGEMENT SYSTEM FOR SMART CITY) <br> BERBASIS IOT (INTERNET OF THINGS) <br> (SUB MODUL:INDIKATOR SAMPAH,<br>TRACKING PETUGAS, KINERJA)
 <p align="center">
   <img src="./img/laporan/logo-sigamaci.png">
 </p>
