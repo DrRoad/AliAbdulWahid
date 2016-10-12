@@ -96,6 +96,7 @@ Motor servo adalah jenis motor yang memiliki 3 kabel. Masing-masing digunakan se
 <p align="justify">
 Sensor Proximity Autonics Kapasitif CR30-15DN adalah sensor untuk mendeteksi sampah organik  yang memiliki 3 kabel. Masing-masing digunakan sebagai catu daya, ground, dan control. Kabel control digunakan untuk menentukan voltase on atau off dari sensor tersebut.
 </p>
+<p align="center">
 <table width="100%">
     <tr>
         <td colspan="2"><strong>Proximity Sensor</strong></td>
@@ -137,6 +138,7 @@ Sensor Proximity Autonics Kapasitif CR30-15DN adalah sensor untuk mendeteksi sam
         <td>30  71 mm</td>        
     </tr>
 </table>
+</p>
 <p align="center">Tabel 2.1 Sensor Proximity Autonics Kapasitif CR30-15DN</p>
 <br>
 <strong>2.10 Node.js</strong>
@@ -206,23 +208,23 @@ sebuah "bahasa" yg telah menjadi standar dalam industri untuk visualisasi, meran
 <br>
 2. Diagram dalam Unified Modeling Language (UML), yaitu :
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Use Case Diagram 
+a. Use Case Diagram 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diagram ini memperihatkan himpunan use case dan aktor-aktor (suatu jenis khusus dari kelas). Diagram ini terutama sangat penting untuk mengorganisasi dan memodelkan perilaku dari suatu sistem yang dibutuhkan serta diharapkan pengguna.
+Diagram ini memperihatkan himpunan use case dan aktor-aktor (suatu jenis khusus dari kelas). Diagram ini terutama sangat penting untuk mengorganisasi dan memodelkan perilaku dari suatu sistem yang dibutuhkan serta diharapkan pengguna.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Class Diagram 
+b. Class Diagram 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diagram ini memperlihatkan himpunan kelas-kelas, antarmuka-antarmuka, kolaborasi-kolaborasi dan relasi-relasi antar objek. 
+Diagram ini memperlihatkan himpunan kelas-kelas, antarmuka-antarmuka, kolaborasi-kolaborasi dan relasi-relasi antar objek. 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Sequence Diagram 
+c. Sequence Diagram 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diagram ini memperlihatkan interaksi yang menekankan pada pengiriman pesan (message) dalam suatu waktu tertentu. 
+Diagram ini memperlihatkan interaksi yang menekankan pada pengiriman pesan (message) dalam suatu waktu tertentu. 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. State Chart Diagram 
+d. State Chart Diagram 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diagram ini memperlihatkan state-state pada sistem, memuat state, transisi, event, dan aktifitas. Diagram ini terutama penting untuk memperlihatkan sifat dinamis dari antarmuka, kelas, kolaborasi dan terutama penting pada pemodelan sistem-sistem yang reaktif. 
+Diagram ini memperlihatkan state-state pada sistem, memuat state, transisi, event, dan aktifitas. Diagram ini terutama penting untuk memperlihatkan sifat dinamis dari antarmuka, kelas, kolaborasi dan terutama penting pada pemodelan sistem-sistem yang reaktif. 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Activity Diagram
+e. Activity Diagram
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diagram ini memperlihatkan aliaran dari suatu aktifitas ke aktifitas lainnya dalam suatu sistem. Diagram ini terutama penting dalam pemodelan fungsi-fungsi dalam suatu sistem dan memberi tekanan pada aliran kendali antar objek.
+Diagram ini memperlihatkan aliaran dari suatu aktifitas ke aktifitas lainnya dalam suatu sistem. Diagram ini terutama penting dalam pemodelan fungsi-fungsi dalam suatu sistem dan memberi tekanan pada aliran kendali antar objek.
 </p>
