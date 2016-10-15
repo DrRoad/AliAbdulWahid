@@ -66,3 +66,11 @@ Dalam penyusunan proposal proyek II, penulis membatasi pembahasan hanya pada:
 <br>
 3. Perancangan tempat sampah pintar berbasis IoT yang dapat memilah sampah organik dan non-organik yang terintegrasi dengan sistem administrasi pengelolaan sampah.
 </p>
+<br>
+<strong>1.5 Jadwal Kegiatan Pengerjaan Proyek</strong>
+<p align="justify">
+<p align="center">
+    <img src="../../img/proposal/jadwal.png" width="450" height="300">
+    <br>
+    Tabel 1.1 Jadwal Kegiatan Pengerjaan Proyek
+</p>
