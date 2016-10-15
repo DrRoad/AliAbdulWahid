@@ -70,7 +70,7 @@ Dalam penyusunan proposal proyek II, penulis membatasi pembahasan hanya pada:
 <strong>1.5 Jadwal Kegiatan Pengerjaan Proyek</strong>
 <p align="justify">
 <p align="center">
-    <img src="../../img/proposal/jadwal.png" width="650" height="300">
+    <img src="../../img/proposal/jadwalkegiatan.png" width="650" height="300">
     <br>
     Tabel 1.1 Jadwal Kegiatan Pengerjaan Proyek
 </p>
