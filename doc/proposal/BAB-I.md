@@ -14,9 +14,9 @@ Berdasarkan latar belakang tersebut dapat di identifikasi bahwa permasalahan yan
 <br>
 1. Pengelolaan sampah yang belum efektif dan belum bisa dimanfaatkan.
 <br>
-2. Rute truk pengangkut sampah dengan tempat sampah masih konvensional yaitu kumpul-angkut-buang.
+2. Belum adanya indikator kapasitas pada tempat sampah konvensional. 
 <br>
-3. Belum adanya indikator kapasitas pada tempat sampah konvensional. 
+3. Sampah tidak mempunyai nilai ekonomis.
 </p>
 <br>
 <strong>1.3 Tujuan dan Manfaat</strong>
@@ -28,9 +28,7 @@ Berdasarkan uraian latar belakang masalah, maka tujuan penyusunan proposal Proye
 <br>
 1. Pengelolaan sampah yang bisa dimanfaatkan yang dipilah secara otomatis antara organik dan non-organik.
 <br>
-2. Menerapkan rute terdekat (route optimize algorithm) truk pengangkut sampah dengan tempat sampah pintar, jadi hanya sampah yang sudah penuh saja yang akan diambil. 
-<br>
-3. Mengetahui informasi tentang indikator kapasitas setiap tempat sampah pintar. 
+2. Mengetahui informasi tentang indikator kapasitas setiap tempat sampah pintar. 
 </p>
 <br>
 <strong>1.3.2 Manfaat</strong>
@@ -39,9 +37,9 @@ Manfaat dari penyusunan proposal ini adalah sebagai berikut:
 <br>
 Bagi pengelola sistem administrasi:
 <br>
-1. Memangkas jarak tempuh truk pengangkut sampah terhadap tempat sampah yang akan diambil. Karena hanya sampah yang penuh saja yang akan diambil.
+1. Mengetahui Indikator kapasitas sampah di setiap tempat sampah pintar.
 <br>
-2. Jika proses pengangkutan sampah berjalan baik dan efektif, maka lingkungan akan selalu terjaga kebersihannya. 
+2. Mengetahui Sampah yang bisa di manfaatkan.
 <br>
 Bagi ilmu pengetahuan :
 <br>
@@ -56,11 +54,7 @@ Dalam penyusunan proposal proyek II, penulis membatasi pembahasan hanya pada:
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Memberikan data pemilahan sampah.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Menerima data indikator sampah dari prototype sampah pintar. 
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Menerima data lokasi terdekat truk pengangkut sampah dengan prototype sampah pintar. 
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Memberikan informasi kepada petugas administrasi jika sampah sudah diangkut oleh petugas truk pengangkut. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Memberikan data Indikator kapasitas sampah.
 <br>
 2. Pembuatan desain tempat sampah pintar berbasis IoT yang dapat memilah sampah organik dan non-organik yang terintegrasi dengan sistem administrasi pengelolaan sampah.
 <br>
